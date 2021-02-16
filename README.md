@@ -1,2 +1,1 @@
-# Special-Palm-Tree
-One offs
+This gordonsjk venturing into coding
